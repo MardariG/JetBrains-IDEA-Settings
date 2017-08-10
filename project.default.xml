@@ -1,0 +1,157 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="C:/Projects/Cosmo" value="2971535396389" />
+            <entry key="C:/Projects/CosmoSpy" value="2971534288301" />
+            <entry key="C:/Projects/GMS" value="2980345277417" />
+            <entry key="C:/Projects/JAVA/JHipster" value="2946325393207" />
+            <entry key="C:/Projects/JAVA/example" value="2947328401611" />
+            <entry key="C:/Projects/JAVA/gs-uploading-files-master/complete" value="1480486046000" />
+            <entry key="C:/Projects/JAVA/kip-config-intellij" value="2948716973166" />
+            <entry key="C:/Projects/JAVA/ng2jhi/odimm" value="2970512858993" />
+            <entry key="C:/Projects/JAVA/odimm/src/backend" value="2970505304424" />
+            <entry key="C:/Projects/JAVA/spring-rest-demo" value="1473078384822" />
+            <entry key="C:/Projects/JAVA/spyon/spyapi" value="2946652508737" />
+            <entry key="C:/Projects/JHipster" value="2980351245575" />
+            <entry key="C:/Projects/Microservice" value="2973946845773" />
+            <entry key="C:/Projects/New folder (2)/spyapi-2" value="2971528188871" />
+            <entry key="C:/Projects/New folder (3)/gs-messaging-stomp-websocket/complete" value="1487686422927" />
+            <entry key="C:/Projects/New folder/spyon" value="2957283091244" />
+            <entry key="C:/Projects/Odimm" value="2974469520086" />
+            <entry key="C:/Projects/Sample" value="2969280479331" />
+            <entry key="C:/Projects/SocketAngular2" value="2975375044197" />
+            <entry key="C:/Projects/Spy" value="2966699442550" />
+            <entry key="C:/Projects/SpyOn" value="2969625683576" />
+            <entry key="C:/Projects/socket" value="2973258940907" />
+            <entry key="C:/Projects/test/complete" value="1487758073129" />
+            <entry key="C:/Projects/test/spring-websocket-chat-master" value="1469705602000" />
+            <entry key="$USER_HOME$/exercism/java/etl" value="1487082167050" />
+            <entry key="$USER_HOME$/exercism/java/hello-world" value="1487080507554" />
+            <entry key="$USER_HOME$/exercism/java/nucleotide-count" value="1487083887601" />
+            <entry key="$USER_HOME$/exercism/java/pangram" value="1487163576912" />
+            <entry key="$USER_HOME$/exercism/java/word-count" value="1487144292513" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
